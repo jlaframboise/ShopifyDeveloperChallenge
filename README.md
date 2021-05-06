@@ -13,6 +13,8 @@ Features:
 
 Please note: The provided public database access link is read-only, so you can not add images but the functionality is there and working.  In addition, due to the free version limitations of MongoDB Atlas, the database stores the image filenames and the actual images are stored in the /public folder. 
 
+### Screenshot of search for "science"
+![Screenshot of search for "science"](/public/Screenshot.png)
 
 # Run Instructions
 First, clone the repository.  
